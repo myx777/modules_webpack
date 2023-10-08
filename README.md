@@ -12,5 +12,5 @@
 
    либо
 ```
-npm install -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server
+npm install -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server style-loader
 ``` 
