@@ -9,3 +9,8 @@
 5. `npm i -D html-webpack-plugin`
 6. `npm i -D mini-css-extract-plugin`
 7. `npm i -D webpack-dev-server`
+
+   либо
+```
+npm install -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server
+``` 
